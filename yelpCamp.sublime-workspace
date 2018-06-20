@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"camp",
+				"campgrounds"
+			],
+			[
+				"campg",
+				"campground"
+			],
+			[
+				"cam",
+				"campgrounds"
+			],
+			[
+				"ind",
+				"indexRoutes"
+			],
+			[
+				"comm",
+				"commentRoutes"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"all",
+				"allCampgrounds"
+			],
+			[
+				"ca",
+				"campground"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"sta",
+				"statusCode"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"p1",
+				"p1Score"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"anser",
+				"answer"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"backgrou-",
+				"background-position"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"e",
+				"extra-expanded"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"username",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/campgrounds.js",
+			"settings":
+			{
+				"buffer_size": 2551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/campgrounds/show.ejs",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/m.boyle/Sites/YelpCamp/views/campgrounds/edit.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/models/campground.js",
+		"/Users/m.boyle/Sites/YelpCamp/routes/index.js",
+		"/Users/m.boyle/Sites/YelpCamp/views/campgrounds/show.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/routes/comments.js",
+		"/Users/m.boyle/Sites/YelpCamp/views/comments/new.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/models/comment.js",
+		"/Users/m.boyle/Sites/YelpCamp/views/partials/footer.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/partials/header.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/landing.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/models/user.js",
+		"/Users/m.boyle/Sites/YelpCamp/views/register.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/login.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/campgrounds/index.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/log.ejs",
+		"/Users/m.boyle/Downloads/pollyassets/lambdapolicy.json",
+		"/Users/m.boyle/Sites/YelpCamp/views/new.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/show.ejs",
+		"/Users/m.boyle/Sites/YelpCamp/views/index.ejs",
+		"/Users/m.boyle/Downloads/bootstrap-3.3.7/dist/css/bootstrap.min.css",
+		"/Users/m.boyle/Sites/APIs/movie_search_app/views/search.ejs",
+		"/Users/m.boyle/Sites/APIs/movie_search_app/app.js",
+		"/Users/m.boyle/Sites/APIs/movie_search_app/views/results.ejs",
+		"/Users/m.boyle/Sites/APIs/first_request.js",
+		"/Users/m.boyle/Sites/MoreExpress/PostRequestDemo/app.js",
+		"/Users/m.boyle/Sites/IntroToNode/MyShop/app.js",
+		"/Users/m.boyle/Sites/MoreExpress/PostRequestDemo/views/friends.ejs",
+		"/Users/m.boyle/Sites/MoreExpress/PostRequestDemo/views/home.ejs",
+		"/Users/m.boyle/Sites/MoreExpress/EJSDemp/views/posts.ejs",
+		"/Users/m.boyle/Sites/DemoApp/app.js",
+		"/Users/m.boyle/node_modules/debug/src/node.js",
+		"/Users/m.boyle/Downloads/Section 19/Circles/circles.html",
+		"/Users/m.boyle/Downloads/Section 19/Circles/circles.css",
+		"/Users/m.boyle/Downloads/Section 19/circles.html",
+		"/Users/m.boyle/Downloads/Section 11/ArrayProblemSetSolutions/solution.js",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/todo.js",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/todo.html",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/todo.css",
+		"/Users/m.boyle/Downloads/Section 10/ho-funct.js",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/score.css",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/score.html",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/score.js",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/DOMEvents.html",
+		"/Users/m.boyle/Desktop/Coding/14 Advanced DOM Manipulation/Code/domEvents.js",
+		"/Users/m.boyle/Downloads/Section 11/arrayProblems.html",
+		"/Users/m.boyle/Downloads/Section 11/arrayProblems.js",
+		"/Users/m.boyle/Downloads/Section 11/toDo.js",
+		"/Users/m.boyle/Downloads/Section 11/toDo.html",
+		"/Users/m.boyle/Downloads/Section 10/ho-funct.html",
+		"/Users/m.boyle/Downloads/Section 10/functionProblems.js",
+		"/Users/m.boyle/Downloads/Section 10/functionProblems.html",
+		"/Users/m.boyle/Downloads/07_While_Loops_Problems_Solutions/loops.js",
+		"/Users/m.boyle/Desktop/Coding/Annoy-omatic/annoying.html",
+		"/Users/m.boyle/Desktop/Coding/Annoy-omatic/annoy.js",
+		"/Users/m.boyle/Desktop/Coding/loops.html",
+		"/Users/m.boyle/Desktop/Coding/loops.js",
+		"/Users/m.boyle/Desktop/Coding/game.html",
+		"/Users/m.boyle/Desktop/Coding/game.js",
+		"/Users/m.boyle/Desktop/Coding/Age Calc/script.js",
+		"/Users/m.boyle/Desktop/Coding/Age Calc/index.html",
+		"/Users/m.boyle/Desktop/Coding/bouncer.html",
+		"/Users/m.boyle/Desktop/Coding/bouncer.js",
+		"/Users/m.boyle/Desktop/Coding/JS Stalker/stalker.js",
+		"/Users/m.boyle/Desktop/Coding/Age Calc/script.html",
+		"/Users/m.boyle/Desktop/Coding/JS Intro/script.js",
+		"/Users/m.boyle/Desktop/Coding/JS Intro/index.html",
+		"/Users/m.boyle/Desktop/Coding/JS Stalker/index.html",
+		"/Users/m.boyle/Desktop/Coding/Purrfect/index.html",
+		"/Users/m.boyle/Desktop/Coding/Purrfect/app.css",
+		"/Users/m.boyle/Desktop/Coding/No Class/tryout.css",
+		"/Users/m.boyle/Desktop/Coding/No Class/tryout.html",
+		"/Users/m.boyle/Downloads/07_Image_Gallery/gallery.md",
+		"/Users/m.boyle/Downloads/07_Image_Gallery/gallery.css",
+		"/Users/m.boyle/Downloads/07_Image_Gallery/gallery.html",
+		"/Users/m.boyle/Desktop/Coding/grid.html",
+		"/Users/m.boyle/Desktop/Coding/navbar.html",
+		"/Users/m.boyle/Desktop/Coding/basics.html",
+		"/Users/m.boyle/Desktop/Coding/scratch.html",
+		"/Users/m.boyle/Desktop/Coding/Blog/blog.html",
+		"/Users/m.boyle/Desktop/Coding/Blog/style.css",
+		"/Users/m.boyle/Downloads/07_ImageBlog1/photos.css",
+		"/Users/m.boyle/Downloads/07_ImageBlog1/photoGrid.html",
+		"/Users/m.boyle/Desktop/Coding/emailtest.html",
+		"/Users/m.boyle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/m.boyle/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/m.boyle/Downloads/01_Fonts_Intro/styles1.css",
+		"/Users/m.boyle/Downloads/01_Fonts_Intro/tictactoe.html",
+		"/Users/m.boyle/Downloads/01_Fonts_Intro/fonts.html",
+		"/Users/m.boyle/Downloads/01_Fonts_Intro/styles.css",
+		"/Users/m.boyle/Desktop/Coding/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/m.boyle/Desktop/Coding/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/m.boyle/Desktop/Coding/style.css",
+		"/Users/m.boyle/Desktop/Coding/specificity.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/app.css",
+		"/Users/m.boyle/Desktop/Coding/Forms/toDolist.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/emailTest.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/todos.css",
+		"/Users/m.boyle/Desktop/Coding/07_Selectors/demo.html",
+		"/Users/m.boyle/Desktop/Coding/07_Selectors/selectors.css",
+		"/Users/m.boyle/Downloads/index.html",
+		"/Users/m.boyle/Downloads/test.css",
+		"/Users/m.boyle/Desktop/Coding/Forms/aboutMe.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/quiz3.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/inputs.html",
+		"/Users/m.boyle/Desktop/untitled.html",
+		"/Users/m.boyle/Desktop/Coding/Forms/Form.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logged"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1324,
+								1324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/campgrounds.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2396,
+								2396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 931.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/campgrounds/show.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yelpCamp.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
