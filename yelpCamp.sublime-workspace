@@ -195,7 +195,7 @@
 			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 1518,
+				"buffer_size": 1671,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -204,7 +204,7 @@
 			"file": "routes/campgrounds.js",
 			"settings":
 			{
-				"buffer_size": 2551,
+				"buffer_size": 2869,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -213,7 +213,7 @@
 			"file": "views/campgrounds/show.ejs",
 			"settings":
 			{
-				"buffer_size": 1255,
+				"buffer_size": 2161,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -257,6 +257,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/m.boyle/Sites/YelpCamp"
+	],
 	"file_history":
 	[
 		"/Users/m.boyle/Sites/YelpCamp/views/campgrounds/edit.ejs",
@@ -368,7 +372,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -409,21 +413,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1518,
+						"buffer_size": 1671,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1324,
-								1324
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 166.0,
@@ -438,21 +443,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2551,
+						"buffer_size": 2869,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2396,
-								2396
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 931.0,
@@ -467,15 +473,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1255,
+						"buffer_size": 2161,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								525,
-								525
+								0,
+								0
 							]
 						],
 						"settings":
